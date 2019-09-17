@@ -1,6 +1,5 @@
 # Color Game 
 It's a responsive web  game to improve your skills in hexadecimal color detection                                   
-https://mustafa-alfar.github.io/2018/Color-Game/
 
 To install locally: 
 1. open your editor
